@@ -1,0 +1,35 @@
+Partlist
+
+Exported from EspLight.brd at 5/11/2016 9:33 PM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package        Library                Position (mil)        Orientation
+
+C1       220uF-25V      E2,5-7         rcl                    (1481.25 225)         R270
+C4       220uF-25V      E2,5-7         rcl                    (450 250)             R90
+D1       1N5817         DO41-7.6       diode                  (493.75 50)           R180
+IC2      LM2596T        T05D           national-semiconductor (1156.25 100)         R180
+L1       47uH           6000-XXXX-RC   rcl                    (781.25 231.25)       R90
+LED1                    LED5MM         adafruit               (1468.75 506.25)      R90
+Q1       STP16NF06L     TO220BV        transistor-power       (725 1975)            R0
+Q2       STP16NF06L     TO220BV        transistor-power       (1225 1975)           R0
+Q3       STP16NF06L     TO220BV        transistor-power       (1725 1975)           R0
+R1       10k            0207/10        rcl                    (625 562.5)           R0
+R2       10k            0207/10        rcl                    (1106.25 562.5)       R0
+R3       10k            0207/10        rcl                    (625 462.5)           R0
+R4       100            0207/10        rcl                    (1106.25 462.5)       R0
+R9       10k            0207/10        rcl                    (787.5 1637.5)        R0
+S1                      TACTILE-PTH    SparkFun-Retired       (193.75 1531.25)      R180
+S2                      TACTILE-PTH    SparkFun-Retired       (193.75 1806.25)      R180
+SV1                     MA03-1         con-lstb               (1525 1143.75)        R90
+U$1      2.1MMJACKTHM   PJ-102A        adafruit               (-18.75 1106.25)      R90
+X1                      ESP-12         adafruit               (975 1143.75)         MR180
+X2                      TSW-108-02-S-S con-samtec             (556.25 1075)         R270
+X3                      TSW-108-02-S-S con-samtec             (1375 1075)           R270
+X4                      W237-4P        con-wago-508           (1868.75 1375)        R270
+X5                      W237-132       con-wago-508           (68.75 606.25)        R90
+X6                      W237-132       con-wago-508           (68.75 206.25)        R90
+X7                      W237-4P        con-wago-508           (1868.75 431.25)      R270
