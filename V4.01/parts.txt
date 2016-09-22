@@ -1,0 +1,30 @@
+Partlist
+
+Exported from EspLight-4_0_3.brd at 5/12/2016 7:31 AM
+
+EAGLE Version 7.5.0 Copyright (c) 1988-2015 CadSoft
+
+Assembly variant: 
+
+Part     Value          Package        Library          Position (mm)         Orientation
+
+BUCK                    MA03-1         con-lstb         (20.32 7.62)          R0
+LED1                    LED5MM         adafruit         (37.30625 12.85875)   R90
+Q1       STP16NF06L     TO220BV        transistor-power (18.415 50.165)       R0
+Q2       STP16NF06L     TO220BV        transistor-power (31.115 50.165)       R0
+Q3       STP16NF06L     TO220BV        transistor-power (43.815 50.165)       R0
+R1       10k            0207/10        rcl              (15.875 14.2875)      R0
+R2       10k            0207/10        rcl              (28.09875 14.2875)    R0
+R3       10k            0207/10        rcl              (15.875 11.7475)      R0
+R4       100            0207/10        rcl              (28.09875 11.7475)    R0
+R9       10k            0207/10        rcl              (20.0025 41.5925)     R0
+S1                      TACTILE-PTH    SparkFun-Retired (4.92125 38.89375)    R180
+S2                      TACTILE-PTH    SparkFun-Retired (4.92125 45.87875)    R180
+SV1                     MA03-1         con-lstb         (38.735 29.05125)     R90
+U$1      2.1MMJACKTHM   PJ-102A        adafruit         (-0.47625 30.00375)   R90
+X1                      ESP-12         adafruit         (24.765 29.05125)     MR180
+X2                      TSW-108-02-S-S con-samtec       (14.12875 27.305)     R270
+X3                      TSW-108-02-S-S con-samtec       (34.925 27.305)       R270
+X4                      W237-4P        con-wago-508     (47.46625 34.925)     R270
+X5                      W237-132       con-wago-508     (1.74625 17.30375)    R90
+X7                      W237-4P        con-wago-508     (47.46625 14.605)     R270
